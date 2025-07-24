@@ -1,0 +1,100 @@
+{
+  "Tomato": {
+    "Bacterial_spot": {
+      "name":"Bacterial spot",
+      "reason": "Bacterium Xanthomonas campestris pv. vesicatoria",
+      "description": "Small dark lesions on leaves and fruits; leaves may turn yellow and drop.",
+      "suggestion": "Use copper-based bactericides; practice crop rotation; remove infected plants."
+    },
+    "Early_blight": {
+      "name":"Early blight",
+      "reason": "Fungus Alternaria solani",
+      "description": "Dark concentric spots on older leaves, eventually causing defoliation.",
+      "suggestion": "Apply fungicides like chlorothalonil; remove infected debris; rotate crops."
+    },
+    "Late_blight": {
+      "name":"Late blight",
+      "reason": "Oomycete Phytophthora infestans",
+      "description": "Water-soaked lesions turning brown and leathery on leaves and fruits.",
+      "suggestion": "Use fungicides like mancozeb or metalaxyl; avoid overhead irrigation."
+    },
+    "Leaf_Mold": {
+      "name":"Leaf Mold",
+      "reason": "Fungus Passalora fulva",
+      "description": "Yellow spots on upper leaf surface with olive green mold below.",
+      "suggestion": "Ensure good ventilation; use resistant varieties and fungicides."
+    },
+    "Septoria_leaf_spot": {
+      "name":"Septoria leaf spot",
+      "reason": "Fungus Septoria lycopersici",
+      "description": "Numerous small, circular lesions with dark brown margins and gray centers.",
+      "suggestion": "Use disease-free seeds; apply fungicides; remove affected leaves."
+    },
+    "Spider_mites_Two_spotted_spider_mite": {
+      "name":"Spider mites",
+      "reason": "Pest Tetranychus urticae",
+      "description": "Speckled leaves, webbing, and leaf bronzing due to mite feeding.",
+      "suggestion": "Spray miticides or neem oil; maintain humidity; use predatory mites."
+    },
+    "_Target_Spot": {
+      "name":"Target Spot",
+      "reason": "Fungus Corynespora cassiicola",
+      "description": "Brown spots with concentric rings on leaves and fruit.",
+      "suggestion": "Use fungicides; improve air circulation; avoid overhead watering."
+    },
+    "_Tomato_YellowLeaf__Curl_Virus": {
+      "name":"Tomato YellowLeaf Curl Virus",
+      "reason": "Virus transmitted by whiteflies",
+      "description": "Leaf curling, yellowing, and plant stunting.",
+      "suggestion": "Use resistant varieties; control whiteflies; apply reflective mulches."
+    },
+    "_Tomato_mosaic_virus": {
+      "name":"Tomato mosaic virus",
+      "reason": "Virus transmitted by tools, hands, and infected seeds",
+      "description": "Mottled, curled leaves and stunted growth.",
+      "suggestion": "Use virus-free seeds; disinfect tools; avoid tobacco use when handling plants."
+    },
+    "healthy": {
+      "name":"Healthy",
+      "reason": "No disease detected",
+      "description": "The plant appears to be in good health.",
+      "suggestion": "Continue regular monitoring and good agricultural practices."
+    }
+  },
+
+  "Potato": {
+    "__Early_blight": {
+      "name":"Early blight",
+      "reason": "Fungus Alternaria solani",
+      "description": "Dark, concentric lesions on older leaves; causes leaf drop.",
+      "suggestion": "Apply fungicides; rotate crops; remove infected debris."
+    },
+    "__Late_blight": {
+      "name":"Late blight",
+      "reason": "Oomycete Phytophthora infestans",
+      "description": "Dark, water-soaked lesions on leaves and stems; tuber rot in severe cases.",
+      "suggestion": "Use resistant varieties; apply fungicides; destroy infected plants."
+    },
+    "__healthy": {
+      "name":"Healthy",
+      "reason": "No disease detected",
+      "description": "The plant appears to be in good health.",
+      "suggestion": "Maintain optimal soil and irrigation; continue monitoring."
+    }
+  },
+
+  "Pepper": {
+    "_bell___Bacterial_spot": {
+      "name":"Bacterial spot",
+      "reason": "Bacterium Xanthomonas campestris pv. vesicatoria",
+      "description": "Dark, greasy lesions on leaves, stems, and fruit.",
+      "suggestion": "Use disease-free seeds; apply copper-based sprays; control weeds and avoid overhead irrigation."
+    },
+    "_bell___healthy": {
+      "name":"Healthy",
+      "reason": "No disease detected",
+      "description": "The plant appears to be in good health.",
+      "suggestion": "Practice good sanitation; monitor for early signs of disease."
+    }
+  }
+}
